@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidPro</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="mainText1">铃声</string>
+</resources>
